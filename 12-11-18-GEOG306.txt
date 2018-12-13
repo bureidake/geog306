@@ -264,7 +264,7 @@ Chapter 19 (California)
 ———————————————————————————————————————————————————————————————
 Movies (Choose one out of three):
 1 Last Mountain
-#######National Park/ Everglades (X) not on test
+#######National Park/ Everglades (X) not on test 
 2 Food Machine
 
 3 Pass / Fail Cambodia Town 
